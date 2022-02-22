@@ -1,5 +1,5 @@
 # JogoDaVelha
-Jogo da velha feito em java com o uso de Swing GUI.
+Hash Game in Java with SWING GUI.
 
-Classe principal foi utilizada para teste. O jogo de fato com o uso da interface gráfica, deve ser executado na "TelaDaVelha". 
-Utilize "X" minusculo ou maiusculo para jogar, assim como a letra "O", minuscula ou maiuscula.
+The principal class, was used for tests. Execute the class "TelaDaVelha" for play the game.
+Use "X" or "O" for play, ignore uppercase or lowercase.
